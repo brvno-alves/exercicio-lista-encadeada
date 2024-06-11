@@ -1,5 +1,5 @@
 # exercicio-lista-encadeada
-Exercício da matéria Algoritmos e Estrutura de Dados do Mestrado Profissional em Engenharia da Computação e Sistemas  
+Exercício da matéria Algoritmos e Estrutura de Dados do Mestrado Profissional em Engenharia da Computação e Sistemas - UEMA
 
 Objetivo:
 Implementar uma lista encadeada de valores inteiros em Java que permita adicionar valores, inserir um valor após um nodo específico e imprimir a lista.
